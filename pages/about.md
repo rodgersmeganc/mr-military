@@ -29,5 +29,3 @@ Upon successful completion of all required aircrew training courses, Megan was s
 Megan was then stationed at Fort Meade, MD in March 2015. Despite being on shore duty, she volunteered for a temporary assignment overseas in a high-stress environment. At Fort Meade, she was awarded various medals, as well as multiple letters of commendation for continued high levels of language proficiency. She completed her enlistment obligation in May 2017 and was honorably discharged from service with the rank of Petty Officer Second Class (E5) at Fort Meade.
 
 After her military service, Megan spent two years as a Hebrew Language Analyst government contractor at the National Security Agency, earned a Master of Arts in Applied Linguistics from Saint Cloud State University, earned a Master of Library and Information Science from the University of Pittsburgh, and is working as an archival consultant in her hometown, focusing on preserving the stories and sacrifices of fellow veterans.
-
-For full details of creating your own collection site, visit [CollectionBuilder Documentation](https://collectionbuilder.github.io/cb-docs/)!
