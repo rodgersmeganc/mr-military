@@ -14,13 +14,7 @@ credits: true
 
 ## About the Collection
 
-I'm testing out CollectionBuilder by making this demo site. I practiced uploading: 
-
-- a CSV of collection metadata
-- a folder of JPG images or PDF documents
-
-## New Heading
-Working with markdown!
+An exhibit celebrating the military service of Megan C. Rodgers, CTI2/USN. 
 
 The template repository features four objects from the University of Idaho Library's [Digital Collections](https://www.lib.uidaho.edu/digital). 
 
