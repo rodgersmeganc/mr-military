@@ -10,7 +10,7 @@ credits: true
 
 {% include feature/jumbotron.html objectid="https://chatgpt.com/s/m_69d70e6a42b08191a466dd2b5e6f5e13" %}
 
-{% include feature/nav-menu.html sections="About the Collection;About the About Page" %}
+{% include feature/nav-menu.html sections="About the Collection;Biographical Note" %}
 
 ## About the Collection
 
