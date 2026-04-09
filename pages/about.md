@@ -10,13 +10,13 @@ credits: true
 
 {% include feature/jumbotron.html objectid="objects/ship2.JPG" %}
 
-{% include feature/nav-menu.html sections="About the Collection;Biographical Note" %}
+{% include feature/nav-menu.html sections="About the Collection;About Megan" %}
 
 ## About the Collection
 
 An exhibit celebrating the military service of Megan C. Rodgers, CTI2/USN. 
 
-## Biographical Note
+## About Megan
 
 Megan Carol Rodgers was born and raised in northwestern Pennsylvania. At age 18, she enrolled as an undergraduate student at West Virginia University (WVU). She was awarded a Bachelor of Arts degree in foreign languages and literature from WVU in 2007. Following two years in the workforce in Canonsburg, PA, Megan felt called to serve her country. She is the first female member of her family to serve in the armed forces, preceded in service only by her paternal grandfather who was enlisted for a short time in the US National Guard. 
 
@@ -28,4 +28,4 @@ Upon successful completion of all required aircrew training courses, Megan was s
 
 Megan was then stationed at Fort Meade, MD in March 2015. Despite being on shore duty, she volunteered for a temporary assignment overseas in a high-stress environment. At Fort Meade, she was awarded various medals, as well as multiple letters of commendation for continued high levels of language proficiency. She completed her enlistment obligation in May 2017 and was honorably discharged from service with the rank of Petty Officer Second Class (E5) at Fort Meade.
 
-After her military service, Megan spent two years as a Hebrew Language Analyst government contractor at the National Security Agency, earned a Master of Arts in Applied Linguistics from Saint Cloud State University, earned a Master of Library and Information Science from the University of Pittsburgh, and is working as an archival consultant in her hometown, focusing on preserving the stories and sacrifices of fellow veterans.
+After her military service, Megan spent two years as a Language Analyst government contractor at the National Security Agency, earned a Master of Arts in Applied Linguistics from Saint Cloud State University, earned a Master of Library and Information Science from the University of Pittsburgh, and is working as an archival consultant in her hometown, focusing on preserving the stories and sacrifices of fellow veterans.
